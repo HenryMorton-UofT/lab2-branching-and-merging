@@ -14,7 +14,7 @@ problems posted on https://projecteuler.net/archives which is another interestin
 programming problems. You might also recognize that the multiples of 3 and 5 problem from
 last week came from there. If you are looking for challenges, definitely check it out.
 
-- Partial cake recipes provided by ChatGPT.
+- Partiial cake recipes provided by ChatGPT.
 
 # TASK 0: Fork this repo
 
